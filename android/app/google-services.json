@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696613839776",
+    "project_id": "auth-3ddeb",
+    "storage_bucket": "auth-3ddeb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696613839776:android:d0a8afd2be4ecc1f3afac5",
+        "android_client_info": {
+          "package_name": "com.example.study_planner_pro_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA5hcxko7hhjruo003OUMHlxZ8ed_c7jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
